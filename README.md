@@ -1,1 +1,1 @@
-# 2d-flight-landing-simulato
+# 2d-flight-landing-simulator
